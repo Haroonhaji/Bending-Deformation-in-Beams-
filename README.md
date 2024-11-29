@@ -6,4 +6,4 @@ c) Beam with an overhang.
 Following are the types of loads that have been considered:
 a) Concentrated load.
 b) Uniformally distributed load.
-c)Moment / torque.
+c)Moment / torque
